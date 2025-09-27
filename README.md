@@ -1,6 +1,6 @@
 # Walmart Analytics DB
 
-# This project is focused on analyzing Walmart’s retail transaction data using SQL. The goal is to explore patterns, uncover insights, and understand business trends through structured queries and data analysis.
+This project is focused on analyzing Walmart’s retail transaction data using SQL. The goal is to explore patterns, uncover insights, and understand business trends through structured queries and data analysis.
 
 # Key Features
 
